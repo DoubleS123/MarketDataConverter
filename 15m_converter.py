@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  5 12:58:59 2020
-
-@author: druidkgm
-"""
-
-# -*- coding: utf-8 -*-
-#!/usr/bin/python
 
 import os, sys
 from multiprocess import Pool, cpu_count
